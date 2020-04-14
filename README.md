@@ -5,7 +5,11 @@ This project revolves around addressing social distancing enforcement in countri
 # Project members
 
 1- Khaled A. Harras.
+
 2- Ahmed mehmood.
+
 3- Zaryab.
+
 4- Omar Sinan.
+
 5- Ali Elgazar.
